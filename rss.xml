@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Glowing Cube creative studio]]></title>
         <description><![CDATA[Glowing Cube creative studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/glowingcube/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 07:02:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 07:06:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/glowingcube/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Steampunk game! Work in progress. Stay tuned.</p>]]></description>
+            <link>https://thegrid.ai/glowingcube/748eb430-952b-462c-a2f7-e03d2306de27/index.html</link>
+            <guid isPermaLink="false">748eb430-952b-462c-a2f7-e03d2306de27</guid>
+            <pubDate>Fri, 04 Mar 2016 07:06:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48039423-9d14-4fda-8f3a-4a14076d118c.jpg">]]></description>
-            <link>undefined153e4455-2bed-4c61-8699-9d62b5599b0c/index.html</link>
+            <link>https://thegrid.ai/glowingcube/153e4455-2bed-4c61-8699-9d62b5599b0c/index.html</link>
             <guid isPermaLink="false">153e4455-2bed-4c61-8699-9d62b5599b0c</guid>
             <pubDate>Fri, 04 Mar 2016 07:02:22 GMT</pubDate>
         </item>
